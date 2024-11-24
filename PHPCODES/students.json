@@ -1,0 +1,26 @@
+[
+    {
+        "name": "shreyansh",
+        "attendance": {
+            "2024-11-25": "Present"
+        }
+    },
+    {
+        "name": "simerdeep",
+        "attendance": {
+            "2024-11-25": "Absent"
+        }
+    },
+    {
+        "name": "prince",
+        "attendance": []
+    },
+    {
+        "name": "shivansh",
+        "attendance": []
+    },
+    {
+        "name": "lavanya",
+        "attendance": []
+    }
+]
